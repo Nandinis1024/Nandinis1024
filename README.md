@@ -29,8 +29,9 @@ I'm a passionate web developer with experience in JavaScript and Python framewor
 
 Feel free to reach out for collaboration, discussions, or just to say hi!
 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)]((https://twitter.com/NandiniSha1024)) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/nandini-sharma-39774022a/))
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NandiniSha1024)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandini-sharma-39774022a/)
+
 
 
 Looking forward to connecting with fellow developers and tech enthusiasts. Happy coding!
