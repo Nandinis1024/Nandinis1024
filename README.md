@@ -35,7 +35,7 @@ Feel free to reach out for collaboration, discussions, or just to say hi!
 
 
 Looking forward to connecting with fellow developers and tech enthusiasts. Happy coding!
-
+[![An image of @nandinis1024's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nandinis1024)](https://holopin.io/@nandinis1024)
 
 <!--
 **Nandinis1024/Nandinis1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
